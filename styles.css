@@ -64,7 +64,7 @@ body {
   );
   transform: rotateY(180deg);
   animation: flow-border 3s linear infinite;
-  background-size: 400% 400%;
+  background-size: 300% 300%;
 }
 .backcard_content {
   background-color: black;
